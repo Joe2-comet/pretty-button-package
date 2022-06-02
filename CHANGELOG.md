@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.3
 
-- TODO: This is tutorial pretty button.
+* TODO: Describe initial release.
