@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:hello/pretty_button_package.dart';
+import 'package:pretty_button_package/pretty_button_package.dart';
 
 void main() {
   test('adds one to input values', () {

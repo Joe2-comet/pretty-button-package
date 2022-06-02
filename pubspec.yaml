@@ -1,7 +1,7 @@
-name: hello
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+name: pretty_button_package
+description: A new tutorial Flutter package project.
+version: 0.0.4
+homepage: https://github.com/Joe2-comet/pretty-button-package.git
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
